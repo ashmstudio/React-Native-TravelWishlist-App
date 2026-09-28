@@ -1,14 +1,18 @@
-> Why do I have a folder named ".expo" in my project?
+# 🌍 Travel Wishlist
 
-The ".expo" folder is created when an Expo project is started using "expo start" command.
+A simple React Native app for saving places you want to visit.
 
-> What do the files contain?
+## ✦ Features
 
-- "devices.json": contains information about devices that have recently opened this project. This is used to populate the "Development sessions" list in your development builds.
-- "settings.json": contains the server configuration that is used to serve the application manifest.
-- "dev/logs/": contains structured JSONL event logs from CLI commands (e.g. start.log, export.log). These are truncated on each run.
+- Add destinations
+- View your travel list
+- Delete destinations
+- Dynamic destination counter
 
-> Should I commit the ".expo" folder?
+## ✦ Built With
 
-No, you should not share the ".expo" folder. It does not contain any information that is relevant for other developers working on the project, it is specific to your machine.
-Upon project creation, the ".expo" folder is already added to your ".gitignore" file.
+React Native • JavaScript • Expo
+
+## ✦ Author
+
+**Aisah Muso | BSCS**
